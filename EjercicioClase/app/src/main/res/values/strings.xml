@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EjercicioClase</string>
+    <string name="primero">LinearLayout</string>
+    <string name="segund">RelativeLayout</string>
+    <string name="tercero">Noticias</string>
+    <string name="cuarto">ConstrainLyout</string>
+    <string name="quinto">CardView</string>
+    <string name="sexto">Login</string>
+    <string name="septimo">Información</string>
+    <string name="octavo">Lista</string>
+
+    //variables para los nuevos botones
+    <string name="btnlinearlayoutuno">Boton 1</string>
+    <string name="btnlinearlayoutdos">Boton 2</string>
+    <string name="btnlinearlayouttres">Boton 3</string>
+    <string name="btnlinearlayoutcuatro">Boton 4</string>
+    <string name="btnlinearlayoutcinco">Boton 5</string>
+    <string name="btnlinearlayoutseis">Boton 6</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
